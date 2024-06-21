@@ -1,0 +1,4 @@
+*.pptx
+Screen Shot
+venv
+__pycache__

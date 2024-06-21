@@ -1,0 +1,23 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blog",
+        "prod_uri":"mysql://root:@localhost/blog",
+        "fb_url":"htpps://facebook.cm/technoblog",
+        "tw_url":"htpps://twitter.cm/technoblog",
+        "gh_url":"htpps://github.cm/technoblog",
+        "blog_name":"Techno Blog",
+        "gmail-user":"royayon229@gmail.com",
+        "gmail-password":"a10y@o#n?19",
+        "about_ayon": "Hi my name is ayon and I am studying CSE at Asian University of Bangladesh. This is our first internet programming personal blog site project. And I am a developer. We hopefull you all of you guys like our blog website. Thank you for visiting our site.",
+        "about_alex": "Hi my name is alex and I am studying CSE at Asian University of Bangladesh. This is our first internet programming personal blog site project. And I am a designer. We hopefull you all of you guys like our blog website. Thank you for visiting our site.",
+        "about_rabbi": "Hi my name is rabbi and I am studying CSE at Asian University of Bangladesh. This is our first internet programming personal blog site project. And I am a developer. We hopefull you all of you guys like our blog website. Thank you for visiting our site.",
+        "about_shammi": "Hi my name is shammi and I am studying CSE at Asian University of Bangladesh. This is our first internet programming personal blog site project. And I am a content writer. We hopefull you all of you guys like our blog website. Thank you for visiting our site.",
+        "no_of_posts": 5,
+        "login_image":"tb.ico",
+        "admin_user":"admin",
+        "admin_password": "admin",
+        "upload_location":"E:\\Internet Programming\\IP Project File\\static\\img"
+    }
+}
